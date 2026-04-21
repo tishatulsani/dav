@@ -1,0 +1,11 @@
+Name,Age,Salary,Experience,Department
+Amit,25,40000,2,IT
+Neha,30,50000,5,HR
+Rahul,28,45000,3,Finance
+Priya,35,,7,IT
+Karan,40,60000,10,Management
+Sneha,29,48000,,HR
+Vikas,32,52000,6,Finance
+Anita,,47000,4,IT
+Rohit,27,43000,2,Marketing
+Meera,31,51000,5,Finance
